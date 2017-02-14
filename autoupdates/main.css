@@ -1,4 +1,10 @@
 //Created by Glass
+body {
+    background: url(https://vgy.me/hanGym.png) !important;
+    background-size: cover !important;
+}
+
+
 .settings-header {
  background:black !important;   
 }
