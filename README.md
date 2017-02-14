@@ -1,4 +1,3 @@
+![Hype](https://vgy.me/qO2juQ)
 
-
-
-<img>https://vgy.me/qO2juQ.png</img>
+<h1>Bare this in mind that I do not want you completely copying my theme and editing it and releasing it. I'd rather you just take small bits.</h1>
