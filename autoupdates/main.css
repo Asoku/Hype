@@ -1,4 +1,8 @@
-
+*,
+.title-wrap,
+.guild-header header {
+font-family: 'MV Boli', monospace !important;
+}
 
 .mention {
 	background-color: rgba(27, 193, 86, 0.1) !important;
