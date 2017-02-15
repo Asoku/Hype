@@ -1,3 +1,5 @@
+
+
 .mention {
 	background-color: rgba(27, 193, 86, 0.1) !important;
 	color: #2E2EFE;
@@ -70,7 +72,13 @@
  background:grey !important   
 }
 /*BACKGROUND*/
-
+body {
+    background: url(https://vgy.me/Vu228D.jpg) !important;
+    background-size: cover !important;
+}
+.guilds-wrapper, .private-channels, .channels-wrap, .search-bar, .account, .btn:not(.icon-logout):not(.icon-delete):not(.btn-primary):not(.create-role-button), #friends, .friends-header, .friends-table, .guild-header, header, .invite, .guild-channels, .scroller, .flex-spacer, .title-wrap, .messages-wrapper, .typing, .markup pre, .avatar-wrapper, #voice-connection, .guild-settings-modal-members {
+    background: none !important;
+}
 .friends-row:hover, .friends-header > .tab-bar > .tab-bar-item:hover:not(.tab-bar-item-primary), .btn-friends, .channel-text.selected, .is-local-bot-message, .channel-textarea-inner, .callout-backdrop, .markup code.inline, .markup pre code.hljs, #user-profile-modal > .scroller-wrap.fade > .scroller.guilds > .guild:hover, .roles > .scroller-wrap.fade > .scroller > ul > li:hover, .scroller > ul > li.selected, .scroller.channel-members > .member:hover, .scroller.guild-channels > .channel:hover, .private-channels > .scroller-wrap > .scroller > .channel:hover, .private-channels > .scroller-wrap > .scroller > .channel.selected, #autocomplete-popout > section > .scroller-wrap > .scroller, .scroller-wrap > .scroller > .search-result.selected, .scroller-wrap > .scroller > .search-result:hover, .guilds-wrapper > .scroller-wrap > .scroller.guilds > .guild > div > .guild-inner, .member.member-status.member-status-online.popout-open {
     background: rgba(0, 88, 117, .4) !important;
 }
@@ -155,7 +163,12 @@
     filter: brightness(400%) !important;
 }
 /*BACKGROUND*/
-.h2 {
-    background: #8DA1F9 !important;
-    
+::-webkit-scrollbar {
+ color:blue   !important;
+}
+
+.channel-members-loading {display: none;}
+
+.friends-row {
+background-color:black !important
 }
