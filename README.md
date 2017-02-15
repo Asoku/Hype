@@ -1,6 +1,7 @@
 ![Hype](https://vgy.me/qO2juQ.png)
 
 The owner tags is a Plugin I am using, It is not a part of the theme.
+Also the snow is a plugin. These plugins can be found in the #plugin-repo channel.
 ![preview1](https://vgy.me/W9MJiV.png)
 
 
