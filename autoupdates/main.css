@@ -1,7 +1,7 @@
 *,
 .title-wrap,
 .guild-header header {
-font-family: 'MV Boli', monospace !important;
+font-family: '', monospace !important;
 }
 
 .mention {
@@ -87,7 +87,7 @@ body {
     background: rgba(0, 88, 117, .4) !important;
 }
 .divider > span, .divider > div, .unread::before, .selected::before, .tooltip, .settings-header, .btn-primary, .tab-bar-item.selected:before, .btn.btn-primary, #user-profile-modal > header, .new-messages-bar, #user-profile-modal > footer, .region-select:hover > button, .popout-menu-item:hover, .guilds-wrapper > .scroller-wrap > .scroller.guilds > .guild.selected > div > .guild-inner {
-    background: rgb(0, 88, 117) !important;
+    background-color:blue !important;
     color: white !important;
 }
 #user-profile-modal > header:after {
@@ -126,7 +126,7 @@ body {
     font-weight: bold !important;
 }
 .highlight {
-    color: rgb(0, 147, 196) !important;
+    color:00FFD4 !important;
 }
 .control-group > label > a:hover, .tab-bar-item, .user-settings-modal-accounts-list > h3, .user-settings-modal-accounts-list-description-inner, .checkbox, .help-text, .radio, .control-group > div > p, .user-settings-streamer-mode-enable-inner > label, .tip, .section-header, .note > textarea::-webkit-input-placeholder, .note > textarea, .connected-account-name > a, .empty-text, .region-select-name, .criteria, .btn-default, .instant-invites-header, .instant-invite, .show-channel > div, .countdown, .guild-settings-modal-integrations-header, .guild-settings-modal-integrations-body.settings-panel-with-header.no-integrations > p, h6, .search-bar-inner > input, .search-bar-inner > input::-webkit-input-placeholder, .member-buttons > button:not(.btn-danger), h1, .form-header > header, .guild-settings-modal-emoji-header.settings-panel-header > div > p, .table-header, .emoji-uploader-username, .webhook-details > div, .member, .permission-actions, .form-inner > p, .discord-tag > .username, .discord-tag > .discriminator, .markdown-modal.change-log, .markdown-modal-header, .markdown-modal.change-log > .scroller-wrap.fade > .scroller > ul > li, .markdown-modal-footer, .popout-menu-item, .title, .subtitle, label, .flex-horizontal.reset-container > a, .app-name, .description > .header, .description > .body, .permissions > .header, .permissions > .body, .blurb, .expire-text, .search-for, .search-for > strong, .btn-item, .guild-name, .guild-nick, .row > a > span, .section, .empty > p {
     color: white !important;
