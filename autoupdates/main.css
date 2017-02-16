@@ -1,4 +1,8 @@
-
+*,		 
+ .title-wrap,		
+ .guild-header header {		
+ font-family: 'Somatic', monospace !important;		
+ }
 
 .mention {
 	background-color: rgba(27, 193, 86, 0.1) !important;
